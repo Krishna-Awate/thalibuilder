@@ -2,7 +2,7 @@
   "name": "thalibuilder-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://krishna-awate.github.io/thalibuilder",
+  "homepage": "https://Krishna-Awate.github.io/thalibuilder",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.4",
