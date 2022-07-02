@@ -6,7 +6,7 @@ import PageRoute from './routes/PageRoute';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Navbar />
       <div className='App'>
         <PageRoute />
