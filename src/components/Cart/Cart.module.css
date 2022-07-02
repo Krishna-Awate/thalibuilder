@@ -1,0 +1,46 @@
+.container {
+  background-color: aliceblue;
+  width: 70%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-gap: 70px;
+  margin: 40px 5px 40px 5px;
+}
+
+.thali {
+  margin-top: 50px;
+  display: flex;
+  background-color: rgb(186, 180, 180);
+}
+
+.total {
+  height: 300px;
+  width: 310px;
+  background-color: aliceblue;
+  margin-top: 50px;
+  margin-left: 120px;
+  font-size: 20px;
+}
+
+.button {
+  margin-top: 30px;
+  font-size: 20px;
+  background-color: rgb(51, 102, 255);
+  color: white;
+  border-radius: 5px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.data {
+  margin-top: 50px;
+}
+
+/* .item {
+  background-color: aliceblue;
+  width: 70%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-gap: 70px;
+  margin: 40px 5px 40px 5px;
+} */
